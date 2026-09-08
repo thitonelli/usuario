@@ -12,7 +12,7 @@ public interface UsuarioRepository extends JpaRepository<Usuario, Long> {
 
     boolean existsByEmail(String email);
 
-    Optional<Object> findByEmail(String email);
+    Optional<Usuario> findByEmail(String email);
 
     @Transactional
     void deleteByEmail(String email);
