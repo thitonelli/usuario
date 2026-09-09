@@ -10,4 +10,12 @@ public class UsuarioApplication {
 		SpringApplication.run(UsuarioApplication.class, args);
 	}
 
+	//criando comentário para testar o git
+	//criando comentário para testar o git
+	//criando comentário para testar o git
+	//criando comentário para testar o git
+	//criando comentário para testar o git
+	//criando comentário para testar o git
+
+
 }
